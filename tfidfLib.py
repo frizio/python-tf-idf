@@ -1,7 +1,6 @@
 # -*- coding: utf-8 -*-
 """
 Created on Sun Jan 31 20:16:09 2016
-
 @author: frizio
 """
 
